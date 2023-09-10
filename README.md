@@ -5,6 +5,15 @@ Portfolio Website Made Using the help of HTML, CSS, JS.
 ![Screenshot (9718)](https://github.com/debjyotidas111/Codsoft_Task-2/assets/86339364/29a96ac3-bd79-42bc-9fb1-0e456e4c24bf)
 
 
+
+![Screenshot (9726)](https://github.com/debjyotidas111/Codsoft_Task-2/assets/86339364/59054a94-615b-453e-9e58-4949ed0a963f)
+
+
+
+![Screenshot (9727)](https://github.com/debjyotidas111/Codsoft_Task-2/assets/86339364/d07a7460-6e74-4e74-bfd5-8d7f7918e76c)
+
+
+
 ![Screenshot (9721)](https://github.com/debjyotidas111/Codsoft_Task-2/assets/86339364/4cd12bf0-3d36-485b-b81c-e9a2b10a64bb)
 
 
@@ -20,4 +29,3 @@ Portfolio Website Made Using the help of HTML, CSS, JS.
 ![Screenshot (9725)](https://github.com/debjyotidas111/Codsoft_Task-2/assets/86339364/03224d3c-ca21-49ec-91df-8cef4b5fdb0c)
 
 
-![Screenshot (9726)](https://github.com/debjyotidas111/Codsoft_Task-2/assets/86339364/9bf8f279-c7f4-4e6b-af1d-8f763c66e392)
